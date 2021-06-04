@@ -1,0 +1,30 @@
+{
+  "name": "netlify-functions-hello",
+  "version": "0.1.0",
+  "description": "Simple test of Netlify Functions and static home page.",
+  "scripts": {
+    "dev": "netlify dev",
+    "post": "netlify init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appurist/netlify-functions-hello.git"
+  },
+  "keywords": [
+    "serverless",
+    "netlify",
+    "server",
+    "rest",
+    "api"
+  ],
+  "author": "Paul Whittemore <dev@appurist.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appurist/netlify-functions-hello/issues"
+  },
+  "homepage": "https://github.com/appurist/netlify-functions-hello#readme",
+  "devDependencies": {
+    "netlify-cli": "^3.32.6"
+  },
+  "dependencies": {}
+}
