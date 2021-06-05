@@ -6,7 +6,7 @@ Initial [Functions](https://docs.netlify.com/functions/overview/) test on [Netli
 
 Install yarn, then run `yarn dev` to test locally. Run `yarn post` or `npx netlify init` to create a new server instance on netlify under your account.
 
-When you go to this resulting web page, there are 3 links to example REST API routes, implemented with a single function which can be seen in [./netlify/hello.js](./netlify/hello.js).
+When you go to this resulting web page, there are 3 links to example REST API routes, implemented with a single function which can be seen in [netlify/functions/hello.js](netlify/functions/hello.js).
 
 As I have already done this, you can check out the resulting site at [netlify-functions-hello.netlify.app](https://netlify-functions-hello.netlify.app/)
 
